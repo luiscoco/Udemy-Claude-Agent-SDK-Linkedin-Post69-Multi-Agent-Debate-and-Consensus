@@ -1,0 +1,50 @@
+[
+  {
+    "sequence": 1,
+    "kind": "stage_started",
+    "stage": "advocate",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 2,
+    "kind": "stage_started",
+    "stage": "skeptic",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 3,
+    "kind": "stage_finished",
+    "stage": "advocate",
+    "elapsed_seconds": 4e-05
+  },
+  {
+    "sequence": 4,
+    "kind": "stage_finished",
+    "stage": "skeptic",
+    "elapsed_seconds": 5e-05
+  },
+  {
+    "sequence": 5,
+    "kind": "stage_started",
+    "stage": "rebuttal",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 6,
+    "kind": "stage_finished",
+    "stage": "rebuttal",
+    "elapsed_seconds": 2e-05
+  },
+  {
+    "sequence": 7,
+    "kind": "stage_started",
+    "stage": "moderator",
+    "mode": "offline_fixture"
+  },
+  {
+    "sequence": 8,
+    "kind": "stage_finished",
+    "stage": "moderator",
+    "elapsed_seconds": 5e-05
+  }
+]

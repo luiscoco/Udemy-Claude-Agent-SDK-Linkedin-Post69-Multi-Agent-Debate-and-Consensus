@@ -1,0 +1,16 @@
+{
+  "lesson": 68,
+  "title": "Multi-Agent Debate and Consensus",
+  "application": "Evidence-Based Debate Round",
+  "purpose": "Run independent positions, exchange their actual arguments and preserve unresolved disagreement in the final decision.",
+  "exercise": "Remove the six-week pilot evidence. Check that the moderator preserves uncertainty rather than inventing consensus.",
+  "source_topics": [
+    "00-Infografía sobre debate multiagente y consenso.png",
+    "01-Why-Let-Agents-Debate.png",
+    "02-Roles-in-a-Debate.png",
+    "03-Run-the-Debate-in-Rounds.png",
+    "04-Code-Parallel-Debaters.png",
+    "05-Ways-to-Reach-Consensus.png",
+    "06-Example-Four-Day-Week-Decision.png"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "lesson": 68,
+  "application": "Evidence-Based Debate Round",
+  "mode": "offline_teaching_fixture",
+  "status": "complete",
+  "result": {
+    "positions": {
+      "pro": "Pilot for six weeks with staggered support coverage.",
+      "con": "Coverage gaps and workload compression need measurement."
+    },
+    "rebuttal": "Measure coverage and workload; the evidence does not yet prove a benefit.",
+    "decision": {
+      "decision": "pilot_with_conditions",
+      "unresolved": [
+        "Coverage impact",
+        "Workload change"
+      ]
+    }
+  },
+  "measured_cost_usd": null
+}
